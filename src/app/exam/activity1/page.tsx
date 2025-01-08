@@ -1,4 +1,4 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import React from 'react'
 
 const Activity1 = () => {
