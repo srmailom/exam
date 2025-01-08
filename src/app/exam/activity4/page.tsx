@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 const Activity4 = () => {
     const [size, setSize] = useState(50)
